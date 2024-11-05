@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorne\\OneDrive\\Escritorio\\CSHARP\\Ajedrez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA07C668-201A-4A45-A998-E633C3CBA4B7}|Ajedrez\\Ajedrez.csproj|c:\\users\\jorne\\onedrive\\escritorio\\csharp\\ajedrez\\ajedrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA07C668-201A-4A45-A998-E633C3CBA4B7}|Ajedrez\\Ajedrez.csproj|solutionrelative:ajedrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA07C668-201A-4A45-A998-E633C3CBA4B7}|Ajedrez\\Ajedrez.csproj|c:\\users\\jorne\\onedrive\\escritorio\\csharp\\ajedrez\\ajedrez\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA07C668-201A-4A45-A998-E633C3CBA4B7}|Ajedrez\\Ajedrez.csproj|solutionrelative:ajedrez\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jorne\\OneDrive\\Escritorio\\CSHARP\\Ajedrez\\Ajedrez\\Class1.cs",
+              "RelativeDocumentMoniker": "Ajedrez\\Class1.cs",
+              "ToolTip": "C:\\Users\\jorne\\OneDrive\\Escritorio\\CSHARP\\Ajedrez\\Ajedrez\\Class1.cs",
+              "RelativeToolTip": "Ajedrez\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:58:53.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorne\\OneDrive\\Escritorio\\CSHARP\\Ajedrez\\Ajedrez\\Program.cs",
+              "RelativeDocumentMoniker": "Ajedrez\\Program.cs",
+              "ToolTip": "C:\\Users\\jorne\\OneDrive\\Escritorio\\CSHARP\\Ajedrez\\Ajedrez\\Program.cs",
+              "RelativeToolTip": "Ajedrez\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:56:44.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
